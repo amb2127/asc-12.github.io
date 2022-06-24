@@ -1,3 +1,7 @@
+
+html {
+    font-family: "Overpass", sans-serif;
+  }
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #2a2a2a;
