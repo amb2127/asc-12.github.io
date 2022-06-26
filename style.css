@@ -1,8 +1,6 @@
 
 html {
     font-family: "Overpass", sans-serif;
-    margin-right: 80px;
-    margin-left: 80px;
   }
 /* Add a black background color to the top navigation */
 .topnav {
@@ -36,11 +34,17 @@ html {
 }
   h1 {
     font-size: 50px;
+    margin-right: 80px;
+    margin-left: 80px;
   }
     /* Style the footer */
   h2 {
   	font-size: 36px;
+    margin-right: 80px;
+    margin-left: 80px;
   }
   p {
     font-size: 24px;
+    margin-right: 80px;
+    margin-left: 80px;
   }
